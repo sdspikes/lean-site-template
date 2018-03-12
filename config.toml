@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://sdspikes.github.io/lean-site-template/"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -24,14 +24,14 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
-  strapline = "Helping you do good better"
+  fullTitle = "Rennaisance Center"
+  strapline = "Berkeley Effective Altruism Community Center"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism Berkeley"
+  orgLocations = "Berkeley, CA"
+  contactEmail = "berkeley@eahub.org"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
