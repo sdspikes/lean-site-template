@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Berkeley Effective Altruism Community"
   weight = 1
   languageCode = "en"
 
